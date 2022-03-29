@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**Mattia0455/Mattia0455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Mattia0455's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattia0455&show_icons=true&theme=merko)
 
@@ -21,6 +18,9 @@ With my team, I won the Italian EU Codeweek hackathon and ranked 3rd in the euro
   
 </div>
 
+
+<!--
+**Mattia0455/Mattia0455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
