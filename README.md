@@ -26,7 +26,7 @@ With my team, I won the Italian EU Codeweek hackathon and ranked 3rd in the euro
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-  <img src="https://img.shields.io/badge/godot-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white>
+  <img src="https://img.shields.io/badge/godot-%23313131.svg?style=for-the-badge&logo=godot&logoColor=white">
 </div>
 
 
